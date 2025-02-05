@@ -1,0 +1,29 @@
+.cartaoinicial{
+  background-color: #380244;
+  width: 86%;  
+  height: 500px;
+  position: relative;
+  left: 170px;
+  border-radius: 10px;
+}
+.cartaosecundario{
+  background-color: #3B2565;
+  width: 25%;  
+  height: 300px;
+  position: relative;
+  left:800px;
+  border-radius: 10px;
+}
+.cartaoinicialtodotexto{
+  width: 50%;  
+  height: 50px;
+  position: relative;
+  left: 50px;
+}
+.cartaoinicialfrase{
+font-size: 50px;
+}
+.cartaoinicialtexto{
+  font-size: 30px;
+
+}
