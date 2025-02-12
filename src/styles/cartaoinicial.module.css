@@ -1,19 +1,21 @@
 .cartaoinicial{
   background-color: #380244;
+  margin-top: 10px;
   width: 86%;  
   height: 500px;
   position: relative;
   left: 170px;
   border-radius: 10px;
+  
 }
-.cartaosecundario{
+/* .cartaosecundario{
   background-color: #3B2565;
   width: 25%;  
-  height: 300px;
+  height: 3000px;
   position: relative;
   left:800px;
   border-radius: 10px;
-}
+} */
 .cartaoinicialtodotexto{
   width: 50%;  
   height: 50px;
@@ -22,8 +24,14 @@
 }
 .cartaoinicialfrase{
 font-size: 50px;
+  width: 60%;
+  transform: translateY(200px);
+  margin-left: 50px;
 }
 .cartaoinicialtexto{
   font-size: 30px;
+  width: 60%;
+  transform: translateY(220px);
+  margin-left: 50px;
 
 }

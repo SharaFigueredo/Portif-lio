@@ -2,12 +2,10 @@ import styles from '@/styles/menu.module.css'
 function Menu() {
   return (
     <nav className={styles.cabecalho}>
-      <ul>
-        <li className={styles.itenscabecalho}>Home</li>
-        <li className={styles.itenscabecalho}>Sobre</li>
-        <li className={styles.itenscabecalho}>Projetos</li>
-        <li className={styles.itenscabecalho}>Contacto</li>
-      </ul>
+        <button className={styles.itenscabecalho}>Home</button>
+        <button className={styles.itenscabecalho}>Sobre</button>
+        <button className={styles.itenscabecalho}>Projetos</button>
+        <button className={styles.itenscabecalho}>Contacto</button>
     </nav>
   )
 }
